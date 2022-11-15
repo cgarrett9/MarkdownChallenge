@@ -4,7 +4,7 @@ I am excited to complete my bachelors degree in Information Technology in the ne
 I have learned a lot this semester in the field.
 Here is an example of code I have written this semester in this class.
 
-'''
+```
 <html>
     <body>
         <h1>Chris Garrett's SVG</h1>
@@ -13,6 +13,6 @@ Here is an example of code I have written this semester in this class.
         </svg>
     </body>
 </html>
-'''
+```
 
 [Back](README.md)
