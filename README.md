@@ -5,3 +5,4 @@ Hello. My name is Christopher Garrett. I am a senior here at the University of M
 ## Interests
 
 * [Baseball](Baseball.md)
+* [Traveling](Traveling.md)
