@@ -8,4 +8,4 @@ Hello. My name is Christopher Garrett. I am a senior here at the University of M
 * [Traveling](Traveling.md)
 * [IT](IT.md)
 
-![Polly and Murray]("C:\Users\chris\Pictures\Saved Pictures\Polly and Murray")
+![Polly and Murray]("C:\Users\chris\Pictures\Saved Pictures\PollyandMurray")
