@@ -10,3 +10,5 @@ Hello. My name is Christopher Garrett. I am a senior here at the University of M
 
 Here is a pic of our pets Polly and Murray!
 ![PollyandMurray]("IMG_4384.png")
+
+Thank you for reading about me.
