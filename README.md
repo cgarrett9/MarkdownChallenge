@@ -8,4 +8,5 @@ Hello. My name is Christopher Garrett. I am a senior here at the University of M
 * [Traveling](Traveling.md)
 * [IT](IT.md)
 
-![Polly and Murray]("C:\Users\chris\Pictures\Saved Pictures\PollyandMurray")
+Here is a pic of our pets Polly and Murray!
+![Polly and Murray]("IMG_4384.png")
